@@ -9,10 +9,10 @@
 --
 --              Obj File "compression" utility by ExeVirus
 --
--- 					  Copyright 2020, ExeVirus
--- 							  MIT License
+---                   Copyright 2020, ExeVirus
+-- 			    MIT License
 --
---						See Readme.txt for usage or 
+--			See Readme.txt for usage or 
 --                          compress.lua -h
 
 ----------------------------------------
