@@ -26,9 +26,3 @@ Typically a good number for most use cases is 2 or 3. This is a lossy operation!
 
 **-h**
 - Show this usage information
-
-# Windows Setup
-
-# Linux Setup
-
-# Other Setups
